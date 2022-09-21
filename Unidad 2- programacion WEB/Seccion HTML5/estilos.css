@@ -1,0 +1,19 @@
+h1{
+    color: #2d58cf;
+}
+header{
+   font-size: xx-large;
+}
+#Noticias{
+    color:#ff0000;
+}
+#Noticias_locales{
+color: aqua;
+}
+p{
+    color: blueviolet;
+}
+.Libros{
+    color: rgb(219, 216, 38);
+    font-size: larger;
+}
